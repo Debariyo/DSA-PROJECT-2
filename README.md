@@ -52,13 +52,11 @@ Using Power BI, I built a comprehensive HR analytics dashboard that provided ins
 
 ---
 
-### 📷 **Sample Visuals (Optional for Portfolio Display)**
-
-* Gender distribution chart ## 📊 Visual Insights from Power BI Dashboard
+### 📷 📊 Visual Insights from Power BI Dashboard
 
 ### 1. Gender Distribution by Region
 This visual shows the proportion of male, female, and undisclosed employees across Palmoria Group’s three regions.
-![Gender Distribution Chart](./images/gender-distribution.png)
+![Gender Distribution Chart](https://github.com/Debariyo/DSA-PROJECT-2/commit/928b9036a2705e2f55f9cedd632b6929fe221b0b)
 
 ---
 
@@ -71,8 +69,3 @@ Grouped in $10,000 increments, this chart visualizes how many employees fall int
 ### 3. Bonus Allocation Table
 Displays calculated bonuses based on employee ratings (Excellent, Good, Average), along with total compensation per employee.
 ![Bonus Allocation](./images/bonus-table.png)
-
-* Salary band column chart [BONUS PAYOUT SUMMARY]("C:\Users\Administrator\Pictures\Saved Pictures\Screenshot 2025-07-06 094645.png") 
-* Bonus payout summary table
-* Region-wise compliance visual
-
