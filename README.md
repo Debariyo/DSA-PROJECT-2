@@ -62,8 +62,7 @@ This visual shows the proportion of male, female, and undisclosed employees acro
 
 ### 2. Salary Band Distribution
 Grouped in $10,000 increments, this chart visualizes how many employees fall into each salary bracket, helping identify minimum wage compliance gaps.
-![Salary Band Chart](https://github.com/Debariyo/DSA-PROJECT-2/commit/928b9036a2705e2f55f9cedd632b6929fe221b0b)(https://github.com/Debariyo/DSA-PROJECT-2/commit/928b9036a2705e2f55f9cedd632b6929fe221b0b
-)
+![Salary Band Chart](https://github.com/Debariyo/DSA-PROJECT-2/commit/928b9036a2705e2f55f9cedd632b6929fe221b0b)
 
 ---
 
