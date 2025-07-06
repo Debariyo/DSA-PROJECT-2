@@ -1,6 +1,6 @@
 # DSA-PROJECT-2
 
-## Palmoria Group HR Analysis**
+## Palmoria Group HR Analysis
 
 ### 🏢 **Client/Organization:** Palmoria Group (Manufacturing Company – Nigeria)
 
@@ -69,4 +69,4 @@ Grouped in $10,000 increments, this chart visualizes how many employees fall int
 
 ### 3. Bonus Allocation Table
 Displays calculated bonuses based on employee ratings (Excellent, Good, Average), along with total compensation per employee.
-![Bonus Allocation]()
+![Bonus Allocation](https://github.com/Debariyo/DSA-PROJECT-2/commit/928b9036a2705e2f55f9cedd632b6929fe221b0b)
